@@ -1,1 +1,11 @@
-
+{  
+  "product":{
+      "Id":1, 
+      "Name":"Samsung",
+      "Description":"Con el Galaxy S9, Samsung vuelve a innovar us momentos legendarios en cámara lenta, musicalizados o convertidos en GIF aumentarán tu popularidad en Redes Sociales. Un equipo que incorpora la funcionalidad de protección de datos confidenciales desde el chip y combina desbloqueo por reconocimiento facial y escaneo del iris. ",
+      "Image":"samsung.png",
+      "Title":"UNA CÁMARA QUE SE ADAPTA COMO EL OJO HUMANO", 
+      "Date":"2019-02-25T00:00:00-06:00",
+      "Model":"Samsung Galaxy S9"
+  }
+}
